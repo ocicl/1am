@@ -1,0 +1,10 @@
+* 1am
+
+A minimal testing framework for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/lmj/1am.git   |
+| commit  | 8b1da94  |
+| systems | 1am |
+|---------+-------------------------------------------|
+
